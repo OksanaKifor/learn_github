@@ -1,7 +1,10 @@
 # Heading 1
 Create `sophisticated formatting` for your prose and code on GitHub with simple syntax
+
 **dghdghdgh**sfgsfghsfg
+
 This is a <sup>testing</sup> phase
+
 (https://docs.github.com/en) just to test link
 | Column 1 | Column 2 |
 | -------- | -------- |
